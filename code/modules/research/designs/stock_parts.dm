@@ -177,7 +177,7 @@
 	materials = list(DEFAULT_WALL_MATERIAL = 15000, "glass" = 5000)
 	build_path = /obj/item/weapon/storage/part_replacer
 	sort_string = "CBAAA"
-	
+
 /datum/design/item/stock_part/ARPED
 	name = "Advanced Rapid Part Exchange Device"
 	desc = "Special mechanical module made to store, sort, and apply standard machine parts.  This one has a greatly upgraded storage capacity."
