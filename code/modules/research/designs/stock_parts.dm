@@ -4,6 +4,7 @@
 
 /datum/design/item/stock_part
 	build_type = PROTOLATHE
+
 	time = 3 //Sets an independent time for stock parts, currently one third normal print time.
 
 /datum/design/item/stock_part/AssembleDesignName()
